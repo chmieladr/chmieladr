@@ -1,9 +1,7 @@
 ## Hi there, I'm Adrian! 👋  
 🎓 Applied Computer Science student at Warsaw University of Technology
 
-I'm passionate about software engineering, data science, and AI - especially when these fields intersect to solve real-world problems.
-I enjoy experimenting with new technologies, building practical applications, and continuously improving my skills through hands-on projects.
-Currently, I’m gaining experience across C# and Android app development, and I have recently started broadening my front-end skills by learning React.
+I'm passionate about software engineering, data science, and AI - especially when these fields intersect to solve real-world problems. I enjoy experimenting with new technologies, building practical applications, and continuously improving my skills through hands-on projects. C# serves as my primary technical anchor, where I've established a solid, functional foundation capable of turning concepts into reality, while I keep Kotlin in my back pocket for mobile-specific challenges.
 
 #### 💡 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
